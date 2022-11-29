@@ -12,7 +12,7 @@ Fanhui Kong, Huali Zhou, Qinglin Meng, Nengheng Zheng. "A generic signal process
 Submitted to a journal. 
 
 Main program: AtomicSound12.m  
-Demo1: testAtomicSound12.m  
+Demo1: testAtomicSound12.m (Output figure see above)
 Demo2: DemoFig2_AtomicSound12.m  for Fig.2 in the manuscript  
 Demo3: DemoFig3_AtomicSound12.m  for Fig.3 in the manuscript  
 
