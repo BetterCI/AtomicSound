@@ -1,7 +1,7 @@
 # AtomicSound
 
 MATLAB program for a generic framework of speech degradation algorithms and its special case atomic speech  
-![Demo0](Demo.png)
+![Demo0](Demo0.svg)
 
 
 
