@@ -1,6 +1,9 @@
 # AtomicSound
 
 MATLAB program for a generic framework of speech degradation algorithms and its special case atomic speech  
+![Demo0](Demo.png)
+
+
 
 To make the framework and atomic speech model available to public for academic research purpose, the program is provided here.  
 Citation:  
