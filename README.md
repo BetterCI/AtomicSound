@@ -2,7 +2,7 @@
 
 MATLAB program for a generic framework of speech degradation algorithms and its special case atomic speech  
 
-To make the framework and atomic speech model available to public for research purpose, the program is provided here freely for acadamic research.  
+To make the framework and atomic speech model available to public for academic research purpose, the program is provided here.  
 Citation:  
 
 Fanhui Kong, Huali Zhou, Qinglin Meng, Nengheng Zheng. "A generic signal processing framework for speech redundancy manipulation algorithms in speech perception studies"  
